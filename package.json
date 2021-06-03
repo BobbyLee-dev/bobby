@@ -12,5 +12,13 @@
     "bobby lee",
     "bobby",
     "running coder"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "bobbylee-dev/bobbylee",
+  "author": {
+    "name": "Bobby Lee",
+    "email": "bobby@bobbylee.dev",
+    "url": "https://bobbylee.dev/"
+  }
 }
