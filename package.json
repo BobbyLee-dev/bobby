@@ -1,11 +1,12 @@
 {
   "name": "bobbylee",
   "version": "2.0.2",
-  "description": "Get to know Bobby via `npx bobbylee`.",
+  "description": "Get to know Bobby via `npx bobbylee`",
   "bin": {
     "bobbylee": "index.js"
   },
   "dependencies": {
+    "chalk": "4.1.1",
     "cli-welcome": "2.2.2"
   },
   "keywords": [
