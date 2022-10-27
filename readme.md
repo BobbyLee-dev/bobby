@@ -1,6 +1,6 @@
 # `npx bobbylee`
 
-> Get to know Bobby Lee using your command line with node.js
+> About Bobby Lee
 
 ## Usage
 

@@ -1,23 +1,23 @@
 {
   "name": "bobbylee",
-  "version": "2.1.0",
-  "description": "Get to know Bobby via `npx bobbylee`",
+  "version": "3.0.1",
+  "description": "About me, run `npx bobbylee`",
   "bin": {
     "bobbylee": "index.js"
   },
+  "type": "module",
   "dependencies": {
-    "chalk": "4.1.1",
+    "chalk": "5.1.2",
     "cli-welcome": "2.2.2",
     "log-symbols": "4.0.0"
   },
   "keywords": [
-    "bobby lee",
-    "bobby",
-    "running coder"
+    "Bobby Lee",
+    "Senior Web Developer"
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "bobbylee-dev/bobbylee",
+  "repository": "bobbylee-dev/bobbylee-npm",
   "author": {
     "name": "Bobby Lee",
     "email": "bobby@bobbylee.dev",
