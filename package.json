@@ -1,6 +1,6 @@
 {
   "name": "bobbylee",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "About me, run `npx bobbylee`",
   "bin": {
     "bobbylee": "index.js"
