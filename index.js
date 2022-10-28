@@ -19,7 +19,7 @@ welcome({
 })
 
 log(`${chalk.cyan.bold(`Senior Web Developer who loves to code!
-Working an awesome team, building some sweeeet stuff.
+Working with an awesome team, building some sweeeet stuff.
 `)}
 
 `)
